@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-Generators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanYaseen/nodejs-Generators.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarhanYaseen/nodejs-Generators/issues"
+  },
+  "homepage": "https://github.com/FarhanYaseen/nodejs-Generators#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^2.1.2"
+  }
+}
